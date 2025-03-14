@@ -43,14 +43,7 @@ The dataset contains **270 records** with the following columns:
 5. **KPIs** - Total spending, daily average spending, highest spending category.
 
 ## KPIs (Key Performance Indicators)
-- **Total Spending** for the last 3 months.
-- **Highest Spending Day**.
-- **Category Spending % of Total**.
-- **Average Monthly Spending**.
-- **Top 3 Spending Categories**.
-- **Payment Method Usage %**.
-- **Transactions Per Day**.
-- **Budget vs. Actual Analysis**.
+- **Daily Average Spending**.
 
 ## Filters & Interactivity
 - **Date Filter** to analyze spending by specific days/months.
