@@ -1,6 +1,8 @@
 # Personal Expense Tracking Dashboard - Power BI
 
 ## Overview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
 This project is a **Power BI dashboard** designed to track **daily expenses** over three months (January, February, and March 2025). The dashboard provides insights into spending patterns, payment methods, and major expense categories.
 
 **Disclaimer:** This report is made purely for fun and learning purposes. Do not depend on it for financial decisions. 😊
