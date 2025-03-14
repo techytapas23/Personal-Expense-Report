@@ -1,0 +1,271 @@
+Date,Category,Payment Method,UPI App,Amount,Notes
+01-01-2025,Rent,Card,-,2791.61,Sample note for Rent
+01-01-2025,Shopping,Card,-,4307.19,Sample note for Shopping
+01-01-2025,Food,Cash,-,4254.84,Sample note for Food
+02-01-2025,Miscellaneous,Cash,-,3157.17,Sample note for Miscellaneous
+02-01-2025,Entertainment,Cash,-,889.42,Sample note for Entertainment
+02-01-2025,Transport,Card,-,3179.99,Sample note for Transport
+03-01-2025,Miscellaneous,Card,-,4623.08,Sample note for Miscellaneous
+03-01-2025,Miscellaneous,Cash,-,184.44,Sample note for Miscellaneous
+03-01-2025,Rent,Cash,-,209.39,Sample note for Rent
+04-01-2025,Food,UPI,Paytm,4170.03,Sample note for Food
+04-01-2025,Food,Card,-,4653.72,Sample note for Food
+04-01-2025,Miscellaneous,Cash,-,4661.98,Sample note for Miscellaneous
+05-01-2025,Entertainment,UPI,Google Pay,4346.43,Sample note for Entertainment
+05-01-2025,Miscellaneous,UPI,Amazon Pay,4448.08,Sample note for Miscellaneous
+05-01-2025,Miscellaneous,UPI,PhonePe,2056.74,Sample note for Miscellaneous
+06-01-2025,Food,Cash,-,4548.35,Sample note for Food
+06-01-2025,Rent,Cash,-,4093.7,Sample note for Rent
+06-01-2025,Transport,Cash,-,1463.45,Sample note for Transport
+07-01-2025,Miscellaneous,UPI,Amazon Pay,3690.23,Sample note for Miscellaneous
+07-01-2025,Rent,Cash,-,3354.71,Sample note for Rent
+07-01-2025,Miscellaneous,Cash,-,2867.49,Sample note for Miscellaneous
+08-01-2025,Entertainment,Cash,-,1541.93,Sample note for Entertainment
+08-01-2025,Entertainment,Card,-,2121.86,Sample note for Entertainment
+08-01-2025,Transport,UPI,BHIM,4567.98,Sample note for Transport
+09-01-2025,Transport,Cash,-,1833.23,Sample note for Transport
+09-01-2025,Entertainment,Cash,-,1399.72,Sample note for Entertainment
+09-01-2025,Food,Card,-,1874.26,Sample note for Food
+10-01-2025,Entertainment,Card,-,4564.1,Sample note for Entertainment
+10-01-2025,Entertainment,UPI,Amazon Pay,4826.55,Sample note for Entertainment
+10-01-2025,Transport,UPI,Paytm,3009.44,Sample note for Transport
+11-01-2025,Shopping,Cash,-,2180.97,Sample note for Shopping
+11-01-2025,Food,UPI,Amazon Pay,3090.47,Sample note for Food
+11-01-2025,Shopping,Cash,-,2417.45,Sample note for Shopping
+12-01-2025,Shopping,UPI,Amazon Pay,2186.19,Sample note for Shopping
+12-01-2025,Rent,UPI,Paytm,1951.05,Sample note for Rent
+12-01-2025,Rent,Cash,-,1514.25,Sample note for Rent
+13-01-2025,Shopping,Cash,-,4245.93,Sample note for Shopping
+13-01-2025,Miscellaneous,UPI,Amazon Pay,2126.52,Sample note for Miscellaneous
+13-01-2025,Rent,Cash,-,3855.98,Sample note for Rent
+14-01-2025,Transport,UPI,PhonePe,58.79,Sample note for Transport
+14-01-2025,Rent,Cash,-,3995.13,Sample note for Rent
+14-01-2025,Shopping,Card,-,2353.61,Sample note for Shopping
+15-01-2025,Food,UPI,Amazon Pay,2693.95,Sample note for Food
+15-01-2025,Food,UPI,Google Pay,3087.43,Sample note for Food
+15-01-2025,Transport,UPI,Paytm,4045.78,Sample note for Transport
+16-01-2025,Transport,Cash,-,1347.3,Sample note for Transport
+16-01-2025,Rent,Card,-,2222.09,Sample note for Rent
+16-01-2025,Shopping,UPI,Amazon Pay,648.99,Sample note for Shopping
+17-01-2025,Rent,Card,-,3834.62,Sample note for Rent
+17-01-2025,Transport,Cash,-,1463.13,Sample note for Transport
+17-01-2025,Entertainment,Card,-,1297.72,Sample note for Entertainment
+18-01-2025,Shopping,UPI,BHIM,4887.4,Sample note for Shopping
+18-01-2025,Food,Cash,-,408.83,Sample note for Food
+18-01-2025,Transport,UPI,PhonePe,4905.49,Sample note for Transport
+19-01-2025,Shopping,Card,-,4385.41,Sample note for Shopping
+19-01-2025,Shopping,UPI,PhonePe,2304.57,Sample note for Shopping
+19-01-2025,Entertainment,UPI,Paytm,1031.05,Sample note for Entertainment
+20-01-2025,Rent,UPI,BHIM,1879.92,Sample note for Rent
+20-01-2025,Rent,Card,-,2738.93,Sample note for Rent
+20-01-2025,Entertainment,Card,-,1953.46,Sample note for Entertainment
+21-01-2025,Rent,Card,-,4534.66,Sample note for Rent
+21-01-2025,Entertainment,Cash,-,1902.68,Sample note for Entertainment
+21-01-2025,Shopping,Cash,-,1839.12,Sample note for Shopping
+22-01-2025,Transport,Cash,-,3026.3,Sample note for Transport
+22-01-2025,Food,Card,-,3515.71,Sample note for Food
+22-01-2025,Entertainment,Card,-,2526.09,Sample note for Entertainment
+23-01-2025,Shopping,Cash,-,1724.73,Sample note for Shopping
+23-01-2025,Shopping,UPI,Google Pay,3420.34,Sample note for Shopping
+23-01-2025,Rent,Card,-,62.74,Sample note for Rent
+24-01-2025,Entertainment,Card,-,1880.89,Sample note for Entertainment
+24-01-2025,Entertainment,UPI,Google Pay,1228.57,Sample note for Entertainment
+24-01-2025,Shopping,UPI,Paytm,4969.93,Sample note for Shopping
+25-01-2025,Food,UPI,BHIM,4524.66,Sample note for Food
+25-01-2025,Shopping,Cash,-,2456.69,Sample note for Shopping
+25-01-2025,Miscellaneous,UPI,Amazon Pay,410.03,Sample note for Miscellaneous
+26-01-2025,Shopping,Card,-,4669.45,Sample note for Shopping
+26-01-2025,Food,UPI,Google Pay,4193.34,Sample note for Food
+26-01-2025,Transport,Cash,-,4488.34,Sample note for Transport
+27-01-2025,Shopping,Card,-,1274.39,Sample note for Shopping
+27-01-2025,Entertainment,UPI,BHIM,283.18,Sample note for Entertainment
+27-01-2025,Miscellaneous,Cash,-,4104.14,Sample note for Miscellaneous
+28-01-2025,Miscellaneous,Cash,-,4874.66,Sample note for Miscellaneous
+28-01-2025,Food,Card,-,1986.07,Sample note for Food
+28-01-2025,Rent,Card,-,4104.34,Sample note for Rent
+29-01-2025,Food,Card,-,1476.9,Sample note for Food
+29-01-2025,Rent,UPI,Amazon Pay,2783.32,Sample note for Rent
+29-01-2025,Food,Cash,-,3571.63,Sample note for Food
+30-01-2025,Miscellaneous,UPI,BHIM,2277.1,Sample note for Miscellaneous
+30-01-2025,Rent,Cash,-,4333.06,Sample note for Rent
+30-01-2025,Entertainment,Card,-,3308.25,Sample note for Entertainment
+31-01-2025,Food,Cash,-,1702.19,Sample note for Food
+31-01-2025,Food,Card,-,284.95,Sample note for Food
+31-01-2025,Miscellaneous,UPI,Paytm,4767.63,Sample note for Miscellaneous
+01-02-2025,Entertainment,Card,-,534.02,Sample note for Entertainment
+01-02-2025,Miscellaneous,Card,-,1806.25,Sample note for Miscellaneous
+01-02-2025,Entertainment,Card,-,145.56,Sample note for Entertainment
+02-02-2025,Entertainment,Cash,-,2847.54,Sample note for Entertainment
+02-02-2025,Food,Cash,-,4506.11,Sample note for Food
+02-02-2025,Transport,Card,-,3534.23,Sample note for Transport
+03-02-2025,Miscellaneous,Cash,-,2063.19,Sample note for Miscellaneous
+03-02-2025,Shopping,Cash,-,738.17,Sample note for Shopping
+03-02-2025,Transport,Cash,-,4387.9,Sample note for Transport
+04-02-2025,Shopping,Card,-,4345.88,Sample note for Shopping
+04-02-2025,Rent,Cash,-,4643.11,Sample note for Rent
+04-02-2025,Entertainment,UPI,PhonePe,943.34,Sample note for Entertainment
+05-02-2025,Rent,Cash,-,784.67,Sample note for Rent
+05-02-2025,Food,Card,-,4460.92,Sample note for Food
+05-02-2025,Food,UPI,BHIM,4642.72,Sample note for Food
+06-02-2025,Entertainment,UPI,BHIM,3900.34,Sample note for Entertainment
+06-02-2025,Entertainment,Cash,-,2389.06,Sample note for Entertainment
+06-02-2025,Miscellaneous,Card,-,4563.11,Sample note for Miscellaneous
+07-02-2025,Entertainment,Cash,-,2286.4,Sample note for Entertainment
+07-02-2025,Rent,Card,-,506.28,Sample note for Rent
+07-02-2025,Miscellaneous,UPI,BHIM,2914.27,Sample note for Miscellaneous
+08-02-2025,Rent,Cash,-,371.79,Sample note for Rent
+08-02-2025,Food,UPI,PhonePe,3753.73,Sample note for Food
+08-02-2025,Rent,Card,-,4806.06,Sample note for Rent
+09-02-2025,Rent,Card,-,4365.58,Sample note for Rent
+09-02-2025,Miscellaneous,Card,-,3154.43,Sample note for Miscellaneous
+09-02-2025,Food,Card,-,2082.63,Sample note for Food
+10-02-2025,Rent,Cash,-,3634.51,Sample note for Rent
+10-02-2025,Rent,Cash,-,4925.62,Sample note for Rent
+10-02-2025,Shopping,Card,-,3095.51,Sample note for Shopping
+11-02-2025,Miscellaneous,Cash,-,944.17,Sample note for Miscellaneous
+11-02-2025,Food,Cash,-,2391.24,Sample note for Food
+11-02-2025,Rent,Cash,-,4847.99,Sample note for Rent
+12-02-2025,Entertainment,UPI,Paytm,401.28,Sample note for Entertainment
+12-02-2025,Entertainment,UPI,BHIM,1715.34,Sample note for Entertainment
+12-02-2025,Entertainment,UPI,BHIM,1711.06,Sample note for Entertainment
+13-02-2025,Shopping,Card,-,350.63,Sample note for Shopping
+13-02-2025,Shopping,Cash,-,989.81,Sample note for Shopping
+13-02-2025,Transport,Cash,-,4508.43,Sample note for Transport
+14-02-2025,Entertainment,Cash,-,4103.77,Sample note for Entertainment
+14-02-2025,Rent,UPI,Paytm,3508.36,Sample note for Rent
+14-02-2025,Entertainment,Cash,-,3135.3,Sample note for Entertainment
+15-02-2025,Transport,UPI,Google Pay,415.22,Sample note for Transport
+15-02-2025,Shopping,Cash,-,605.03,Sample note for Shopping
+15-02-2025,Rent,Cash,-,4519.93,Sample note for Rent
+16-02-2025,Transport,Card,-,2763.57,Sample note for Transport
+16-02-2025,Food,Card,-,4056.81,Sample note for Food
+16-02-2025,Rent,Cash,-,66.68,Sample note for Rent
+17-02-2025,Shopping,UPI,Amazon Pay,2260.43,Sample note for Shopping
+17-02-2025,Miscellaneous,UPI,Google Pay,713,Sample note for Miscellaneous
+17-02-2025,Miscellaneous,Card,-,4323.04,Sample note for Miscellaneous
+18-02-2025,Shopping,UPI,Google Pay,3268.12,Sample note for Shopping
+18-02-2025,Shopping,Card,-,1861.32,Sample note for Shopping
+18-02-2025,Entertainment,Cash,-,3624.73,Sample note for Entertainment
+19-02-2025,Entertainment,Cash,-,1317.08,Sample note for Entertainment
+19-02-2025,Miscellaneous,Card,-,3172.06,Sample note for Miscellaneous
+19-02-2025,Food,UPI,Paytm,4246.18,Sample note for Food
+20-02-2025,Entertainment,Cash,-,4798.67,Sample note for Entertainment
+20-02-2025,Rent,Card,-,3044.81,Sample note for Rent
+20-02-2025,Rent,Card,-,1968.82,Sample note for Rent
+21-02-2025,Food,Card,-,4734.84,Sample note for Food
+21-02-2025,Miscellaneous,Cash,-,2809.58,Sample note for Miscellaneous
+21-02-2025,Food,Cash,-,4548.55,Sample note for Food
+22-02-2025,Rent,UPI,PhonePe,3506,Sample note for Rent
+22-02-2025,Transport,Card,-,158.02,Sample note for Transport
+22-02-2025,Entertainment,UPI,Google Pay,3732.22,Sample note for Entertainment
+23-02-2025,Entertainment,Card,-,247.07,Sample note for Entertainment
+23-02-2025,Transport,UPI,BHIM,716.07,Sample note for Transport
+23-02-2025,Transport,Cash,-,1546.45,Sample note for Transport
+24-02-2025,Miscellaneous,Cash,-,469.55,Sample note for Miscellaneous
+24-02-2025,Rent,Card,-,2413.61,Sample note for Rent
+24-02-2025,Food,UPI,Amazon Pay,4713.86,Sample note for Food
+25-02-2025,Shopping,UPI,BHIM,2624.6,Sample note for Shopping
+25-02-2025,Miscellaneous,Card,-,2320.92,Sample note for Miscellaneous
+25-02-2025,Miscellaneous,Card,-,4231.04,Sample note for Miscellaneous
+26-02-2025,Transport,Cash,-,2812.65,Sample note for Transport
+26-02-2025,Miscellaneous,UPI,BHIM,4544.51,Sample note for Miscellaneous
+26-02-2025,Entertainment,Cash,-,1507.21,Sample note for Entertainment
+27-02-2025,Transport,Cash,-,3785.07,Sample note for Transport
+27-02-2025,Miscellaneous,Card,-,3836.16,Sample note for Miscellaneous
+27-02-2025,Food,Cash,-,4172.45,Sample note for Food
+28-02-2025,Rent,Card,-,3695.35,Sample note for Rent
+28-02-2025,Food,UPI,Paytm,661.67,Sample note for Food
+28-02-2025,Shopping,UPI,Paytm,2466.8,Sample note for Shopping
+01-03-2025,Miscellaneous,UPI,Google Pay,2600.63,Sample note for Miscellaneous
+01-03-2025,Miscellaneous,UPI,PhonePe,3338.83,Sample note for Miscellaneous
+01-03-2025,Shopping,UPI,Amazon Pay,2616.44,Sample note for Shopping
+02-03-2025,Miscellaneous,Card,-,749.18,Sample note for Miscellaneous
+02-03-2025,Transport,UPI,Amazon Pay,3721.37,Sample note for Transport
+02-03-2025,Entertainment,Cash,-,2323.56,Sample note for Entertainment
+03-03-2025,Shopping,UPI,PhonePe,4926.27,Sample note for Shopping
+03-03-2025,Food,Card,-,3394.54,Sample note for Food
+03-03-2025,Miscellaneous,UPI,BHIM,3023.56,Sample note for Miscellaneous
+04-03-2025,Transport,Card,-,4825.55,Sample note for Transport
+04-03-2025,Rent,UPI,Google Pay,213.51,Sample note for Rent
+04-03-2025,Transport,Cash,-,3939.67,Sample note for Transport
+05-03-2025,Transport,Card,-,3770.37,Sample note for Transport
+05-03-2025,Food,Card,-,2092.04,Sample note for Food
+05-03-2025,Miscellaneous,UPI,Amazon Pay,2572.12,Sample note for Miscellaneous
+06-03-2025,Food,Cash,-,2017.44,Sample note for Food
+06-03-2025,Miscellaneous,Cash,-,82.33,Sample note for Miscellaneous
+06-03-2025,Rent,Card,-,2505.57,Sample note for Rent
+07-03-2025,Entertainment,UPI,Amazon Pay,2105.58,Sample note for Entertainment
+07-03-2025,Miscellaneous,Card,-,2641.35,Sample note for Miscellaneous
+07-03-2025,Entertainment,Cash,-,3159.9,Sample note for Entertainment
+08-03-2025,Transport,UPI,Paytm,3756.97,Sample note for Transport
+08-03-2025,Shopping,Cash,-,2556.04,Sample note for Shopping
+08-03-2025,Transport,UPI,Amazon Pay,2467.15,Sample note for Transport
+09-03-2025,Rent,Cash,-,3597.99,Sample note for Rent
+09-03-2025,Transport,UPI,PhonePe,1836.06,Sample note for Transport
+09-03-2025,Shopping,Cash,-,878.37,Sample note for Shopping
+10-03-2025,Entertainment,UPI,Paytm,99.52,Sample note for Entertainment
+10-03-2025,Shopping,Cash,-,838.1,Sample note for Shopping
+10-03-2025,Transport,Cash,-,4146.36,Sample note for Transport
+11-03-2025,Food,Cash,-,1811.62,Sample note for Food
+11-03-2025,Miscellaneous,UPI,Paytm,1919.44,Sample note for Miscellaneous
+11-03-2025,Rent,Card,-,1438.62,Sample note for Rent
+12-03-2025,Transport,UPI,Paytm,1608.54,Sample note for Transport
+12-03-2025,Transport,Card,-,4228.01,Sample note for Transport
+12-03-2025,Shopping,Cash,-,2693.45,Sample note for Shopping
+13-03-2025,Entertainment,UPI,PhonePe,3009.41,Sample note for Entertainment
+13-03-2025,Food,Card,-,677.07,Sample note for Food
+13-03-2025,Entertainment,Card,-,2876.28,Sample note for Entertainment
+14-03-2025,Transport,UPI,Amazon Pay,1520.39,Sample note for Transport
+14-03-2025,Shopping,Card,-,1965.94,Sample note for Shopping
+14-03-2025,Transport,UPI,Amazon Pay,1559.89,Sample note for Transport
+15-03-2025,Entertainment,UPI,Amazon Pay,4922.62,Sample note for Entertainment
+15-03-2025,Rent,Card,-,333.66,Sample note for Rent
+15-03-2025,Rent,UPI,PhonePe,1266.3,Sample note for Rent
+16-03-2025,Food,Cash,-,1810.23,Sample note for Food
+16-03-2025,Entertainment,UPI,Amazon Pay,1253.38,Sample note for Entertainment
+16-03-2025,Rent,Cash,-,1053.24,Sample note for Rent
+17-03-2025,Entertainment,UPI,PhonePe,3869.62,Sample note for Entertainment
+17-03-2025,Rent,Cash,-,4974.87,Sample note for Rent
+17-03-2025,Shopping,UPI,PhonePe,4012.89,Sample note for Shopping
+18-03-2025,Rent,Card,-,3216.04,Sample note for Rent
+18-03-2025,Transport,UPI,Paytm,647.15,Sample note for Transport
+18-03-2025,Transport,Cash,-,563.92,Sample note for Transport
+19-03-2025,Entertainment,UPI,Paytm,3157.85,Sample note for Entertainment
+19-03-2025,Rent,UPI,Amazon Pay,218.75,Sample note for Rent
+19-03-2025,Transport,UPI,Amazon Pay,62.22,Sample note for Transport
+20-03-2025,Shopping,Cash,-,1789.94,Sample note for Shopping
+20-03-2025,Shopping,UPI,Google Pay,2666.7,Sample note for Shopping
+20-03-2025,Miscellaneous,Cash,-,3278,Sample note for Miscellaneous
+21-03-2025,Shopping,Cash,-,2408.49,Sample note for Shopping
+21-03-2025,Entertainment,Card,-,2523.52,Sample note for Entertainment
+21-03-2025,Shopping,Card,-,1647.28,Sample note for Shopping
+22-03-2025,Shopping,Card,-,2928.38,Sample note for Shopping
+22-03-2025,Miscellaneous,Card,-,2602.85,Sample note for Miscellaneous
+22-03-2025,Miscellaneous,Cash,-,4738.43,Sample note for Miscellaneous
+23-03-2025,Food,UPI,Paytm,1729.25,Sample note for Food
+23-03-2025,Shopping,Card,-,4291.89,Sample note for Shopping
+23-03-2025,Food,UPI,Google Pay,129.85,Sample note for Food
+24-03-2025,Shopping,Card,-,4919.27,Sample note for Shopping
+24-03-2025,Rent,UPI,Google Pay,2521.2,Sample note for Rent
+24-03-2025,Food,Cash,-,2384.1,Sample note for Food
+25-03-2025,Miscellaneous,Card,-,2500.81,Sample note for Miscellaneous
+25-03-2025,Entertainment,UPI,BHIM,1933.67,Sample note for Entertainment
+25-03-2025,Food,Cash,-,4622.83,Sample note for Food
+26-03-2025,Shopping,UPI,Google Pay,2589.35,Sample note for Shopping
+26-03-2025,Shopping,Cash,-,1393.84,Sample note for Shopping
+26-03-2025,Miscellaneous,Cash,-,941.26,Sample note for Miscellaneous
+27-03-2025,Transport,Card,-,860.46,Sample note for Transport
+27-03-2025,Shopping,Card,-,1913.57,Sample note for Shopping
+27-03-2025,Food,Cash,-,3894.03,Sample note for Food
+28-03-2025,Miscellaneous,UPI,BHIM,1970.55,Sample note for Miscellaneous
+28-03-2025,Food,Cash,-,3217.71,Sample note for Food
+28-03-2025,Shopping,Cash,-,1260.42,Sample note for Shopping
+29-03-2025,Transport,Card,-,516.2,Sample note for Transport
+29-03-2025,Shopping,UPI,Google Pay,3934.8,Sample note for Shopping
+29-03-2025,Miscellaneous,UPI,BHIM,354.68,Sample note for Miscellaneous
+30-03-2025,Miscellaneous,Cash,-,1262.53,Sample note for Miscellaneous
+30-03-2025,Shopping,Card,-,2160.97,Sample note for Shopping
+30-03-2025,Shopping,UPI,Google Pay,319.01,Sample note for Shopping
+31-03-2025,Rent,Card,-,2148.33,Sample note for Rent
+31-03-2025,Rent,Card,-,292.15,Sample note for Rent
+31-03-2025,Entertainment,UPI,Paytm,747.43,Sample note for Entertainment
